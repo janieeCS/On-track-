@@ -26,7 +26,7 @@ An Android productivity app built with Flutter for managing tasks, notes, and us
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/janieeCS/On-track-/releases/tag/v1.0.0%2B1
    cd ontrackapp
    ```
 
@@ -35,7 +35,7 @@ An Android productivity app built with Flutter for managing tasks, notes, and us
    flutter pub get
    ```
 
-3. **Run the app on Android:**
+3. **Run the app on Android (using Simulator):**
    ```sh
    flutter run
    ```
