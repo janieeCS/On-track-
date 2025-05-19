@@ -4,15 +4,13 @@ An Android productivity app built with Flutter for managing tasks, notes, and us
 
 ## Features
 
-- User authentication (sign up, log in, log out)
-- Task creation, editing, and deletion
-- Task priorities and categories
-- Due date and time selection
-- Notes and comments for tasks
-- Task sharing via email
-- Profile management (edit profile, change password)
-- Light and dark themes
-- Responsive UI for Android devices
+- User Accounts: Sign up, log in/out, edit profile, change password, set profile picture.
+- Task Management: Create, edit, delete, and complete tasks with priorities, categories, notes, and comments.
+- Reminders & Views: Set due dates/times, get local notifications, view tasks on a calendar, and see top 3 tasks in a widget.
+- Sharing: Share tasks via email with other users.
+- Customization & UI: Various theme colors, responsive Android interface.
+- Data Handling: Uses SharedPreferences to save user data.
+
 
 ## Getting Started
 
@@ -44,7 +42,7 @@ An Android productivity app built with Flutter for managing tasks, notes, and us
 
 ## Project Structure
 
-- `lib/` - Main Dart source code (UI, providers, models)
+- `lib/` - source code (UI, providers, models)
 - `assets/` - Images and other assets
 - `android/` - Android platform-specific code
 
